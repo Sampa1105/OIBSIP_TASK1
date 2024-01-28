@@ -1,0 +1,5 @@
+let displayInput=document.querySelector('.display display')
+let btnFirst = document.querySelector('.button1 button')
+let btnSecond = document.querySelector('.button2 button')
+let btnThird = document.querySelector('.button3 button')
+let btnFourth = document.querySelector('.button4 button')
